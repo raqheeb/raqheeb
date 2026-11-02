@@ -39,8 +39,7 @@ I'm a **Final-Year B.Tech Computer Science Engineering (AIML)** student passiona
 <div align="center">
 
 <!-- Upload your landscape goals banner to your repository's assets folder -->
-
-<img src="./assets/goals-banner.png" width="100%" alt="Goals - Discipline, Consistency, Learning and Growth"/>
+<img src="./assets/readme.jpg" width="100%" alt="Goals banner"/>
 
 </div>
 
