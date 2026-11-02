@@ -128,7 +128,7 @@ A hybrid marketplace connecting customers with nearby street vendors.
 
 ---
 
-## GOALS
+## 
 
 <div align="center">
 
@@ -142,17 +142,22 @@ A hybrid marketplace connecting customers with nearby street vendors.
 
 ---
 
-## 🎮 Contribution Breakout
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raqheeb/raqheeb/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raqheeb/raqheeb/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/raqheeb/raqheeb/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/raqheeb/raqheeb/output/breakout-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/raqheeb/raqheeb/output/breakout-contribution-graph.svg">
+
+  <img alt="Breakout contribution graph"
+    src="https://raw.githubusercontent.com/raqheeb/raqheeb/output/breakout-contribution-graph.svg">
 </picture>
 
 </div>
+
+
 
 ---
 
