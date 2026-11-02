@@ -12,7 +12,11 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="170" width="170" src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif" />
+<img align="right"
+     width="240"
+     height="150"
+     src="https://media.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif"
+     alt="Spider-Man GIF"/>
 
 I'm a **Final-Year B.Tech Computer Science Engineering (AIML)** student passionate about building intelligent applications and solving real-world problems through technology.
 
@@ -39,7 +43,7 @@ I'm a **Final-Year B.Tech Computer Science Engineering (AIML)** student passiona
 <div align="center">
 
 <!-- Upload your landscape goals banner to your repository's assets folder -->
-<img src="./assets/readme.jpg" width="100%" alt="Goals banner"/>
+<img src="readme.jpg" width="100%" alt="Goals banner"/>
 
 </div>
 
