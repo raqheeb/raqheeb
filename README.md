@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 About Me
+
 
 <img align="right"
      width="240"
@@ -28,9 +28,8 @@ I'm a **Final-Year B.Tech Computer Science Engineering (AIML)** student passiona
 
 <br clear="right"/>
 
-## 🚀 What I'm Up To
 
-* 🔭 **Currently working on:** AI-Ops Sentinel, VendorSphere and BuildingMind.
+* 🔭 **Currently working on:** BuildingMind.
 * 🤝 **Looking to collaborate on:** AI/ML, backend engineering and full-stack projects.
 * 🌱 **Currently learning:** DSA in Java, System Design and Agentic AI.
 * 💬 **Ask me about:** Python, Java, Django, FastAPI, Machine Learning and REST APIs.
@@ -129,7 +128,7 @@ A hybrid marketplace connecting customers with nearby street vendors.
 
 ---
 
-## 📊 GitHub Statistics
+## GOALS
 
 <div align="center">
 
